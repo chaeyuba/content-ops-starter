@@ -33,7 +33,7 @@ sections:
         elementId: ''
         type: Link
     media:
-      url: /images/00060-1376813916.png
+      url: /images/Screenshot 2025-09-18 230839.png
       altText: Unblock your team boost your time to production preview
       elementId: ''
       type: ImageBlock

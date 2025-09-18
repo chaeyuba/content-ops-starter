@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Your AI Vtuber Girlfriend.
+      text: YOUR AI VTUBER GIRLFRIEND.
       color: text-dark
       type: TitleBlock
     subtitle: 'Meet Maizuki or “My AI Zuki,”'

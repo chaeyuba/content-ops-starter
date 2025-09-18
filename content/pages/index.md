@@ -171,7 +171,7 @@ sections:
         textAlign: center
   - subtitle: BADDIE PICS OF MAIZUKI
     images:
-      - url: /images/empathy-logo.svg
+      - url: /images/00065-1376813921.png
         altText: Empathy logo
         type: ImageBlock
       - url: /images/wellster-logo.svg

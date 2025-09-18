@@ -169,7 +169,7 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-  - subtitle: Award winning enterprises trust us
+  - subtitle: BADDIE PICS OF MAIZUKI
     images:
       - url: /images/empathy-logo.svg
         altText: Empathy logo

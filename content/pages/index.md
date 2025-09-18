@@ -8,10 +8,11 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: 'Meet Maizuki, or “My AI Zuki,”'
-    text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+    text: >+
+      She is an advanced AI VTuber. She uses smart memory and adaptive reasoning
+      to evolve her personality in real time. With multi-modal abilities and
+      reliable performance, she’ll soon have practical uses too.
+
     actions:
       - label: Get started
         altText: ''

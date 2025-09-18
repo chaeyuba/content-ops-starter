@@ -7,7 +7,7 @@ sections:
       text: Your AI Vtuber Girlfriend.
       color: text-dark
       type: TitleBlock
-    subtitle: 'Meet Maizuki, or “My AI Zuki,”'
+    subtitle: 'Meet Maizuki or “My AI Zuki,”'
     text: >+
       She is an advanced AI VTuber. She uses smart memory and adaptive reasoning
       to evolve her personality in real time. With multi-modal abilities and

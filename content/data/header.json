@@ -1,10 +1,12 @@
 {
     "logo": {
-        "url": "/images/logo-dark.svg",
+        "url": "/images/Screenshot_18-9-2025_225133_drive.google.com.jpeg",
         "altText": "Logo dark",
         "styles": {
             "self": {
-                "margin": ["mr-3"]
+                "margin": [
+                    "mr-3"
+                ]
             }
         },
         "type": "ImageBlock"

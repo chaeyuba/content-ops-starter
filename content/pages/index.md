@@ -37,7 +37,7 @@ sections:
       elementId: ''
       type: ImageBlock
     badge:
-      label: ''
+      label: mAIzuki
       color: text-primary
       type: Badge
     elementId: ''
